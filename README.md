@@ -1,6 +1,6 @@
 
 <h3 align="center">A passionate android app developer</h3>
-<a href="https://ibb.co/gmxcY3F"><img align="right" alt="Coding" width="400" src="https://i.ibb.co/4KH0k7g/output-onlinegiftools.gif" alt="output-onlinegiftools" border="0"></a>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 - 🌱 I’m currently learning **flutter, machine learning**
 
